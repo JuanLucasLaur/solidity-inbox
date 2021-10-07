@@ -1,0 +1,16 @@
+{
+  "name": "solidity-inbox",
+  "version": "0.0.1",
+  "description": "Basic message contract with Solidity.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanLucasLaur/solidity-inbox.git"
+  },
+  "author": "Juan L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanLucasLaur/solidity-inbox/issues"
+  },
+  "homepage": "https://github.com/JuanLucasLaur/solidity-inbox#readme"
+}
